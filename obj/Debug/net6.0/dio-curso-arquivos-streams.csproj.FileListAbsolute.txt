@@ -1,0 +1,17 @@
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-arquivos-streams\bin\Debug\net6.0\dio-curso-arquivos-streams.exe
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-arquivos-streams\bin\Debug\net6.0\dio-curso-arquivos-streams.deps.json
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-arquivos-streams\bin\Debug\net6.0\dio-curso-arquivos-streams.runtimeconfig.json
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-arquivos-streams\bin\Debug\net6.0\dio-curso-arquivos-streams.dll
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-arquivos-streams\bin\Debug\net6.0\ref\dio-curso-arquivos-streams.dll
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-arquivos-streams\bin\Debug\net6.0\dio-curso-arquivos-streams.pdb
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-arquivos-streams\obj\Debug\net6.0\dio-curso-arquivos-streams.csproj.AssemblyReference.cache
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-arquivos-streams\obj\Debug\net6.0\dio-curso-arquivos-streams.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-arquivos-streams\obj\Debug\net6.0\dio-curso-arquivos-streams.AssemblyInfoInputs.cache
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-arquivos-streams\obj\Debug\net6.0\dio-curso-arquivos-streams.AssemblyInfo.cs
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-arquivos-streams\obj\Debug\net6.0\dio-curso-arquivos-streams.csproj.CoreCompileInputs.cache
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-arquivos-streams\obj\Debug\net6.0\dio-curso-arquivos-streams.dll
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-arquivos-streams\obj\Debug\net6.0\ref\dio-curso-arquivos-streams.dll
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-arquivos-streams\obj\Debug\net6.0\dio-curso-arquivos-streams.pdb
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-arquivos-streams\obj\Debug\net6.0\dio-curso-arquivos-streams.genruntimeconfig.cache
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-arquivos-streams\bin\Debug\net6.0\CsvHelper.dll
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-arquivos-streams\obj\Debug\net6.0\dio-curso-arquivos-streams.csproj.CopyComplete

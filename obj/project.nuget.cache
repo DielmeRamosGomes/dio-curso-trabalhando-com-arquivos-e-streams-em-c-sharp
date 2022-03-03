@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CMmlQcK2I4TtpQ1mFTNndQTzJFLMbtYa/abXCtlM6LedG0dI+PlV89TTOkoWH6Wta4+MpRCJmV27iiakJ7Lrgg==",
+  "success": true,
+  "projectFilePath": "D:\\Programas no Visual Studio Code\\C-Sharp\\dio-curso-arquivos-streams\\dio-curso-arquivos-streams.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dielm\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

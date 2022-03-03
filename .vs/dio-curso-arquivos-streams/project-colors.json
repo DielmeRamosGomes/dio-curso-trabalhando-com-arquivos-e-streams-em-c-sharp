@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f35a6c22-bfac-4881-b554-3ae3481f63e3": {
+      "ProjectGuid": "f35a6c22-bfac-4881-b554-3ae3481f63e3",
+      "DisplayName": "dio-curso-arquivos-streams",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
